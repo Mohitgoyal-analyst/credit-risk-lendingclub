@@ -29,7 +29,7 @@ As LendingClub scaled from 43,000 to 283,000 loans a year, the risk behind each 
 | Model | Test AUC (2015) |
 |---|---|
 | LendingClub's own `int_rate` / `sub_grade` | 0.715 |
-| WOE scorecard, borrower features only | 0.717 |
+| WOE scorecard, borrower features only | 0.718 |
 | Gradient boosting, borrower features only | **0.736** |
 | Gradient boosting, borrower + platform features | 0.742 |
 
