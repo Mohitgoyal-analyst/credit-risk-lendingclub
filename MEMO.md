@@ -16,7 +16,7 @@ On out-of-sample 2015 loans, this approach identified a subset of grade D loans 
 
 **1. The risk premium barely compensates.**
 
-On fully matured 2012–2013 loans, realised annual returns run from 2.52% (grade A) to 4.29% (grade E) — a modest reward for a five-fold increase in default rate. Every grade returns far below its advertised rate: grade A advertises 7.2% and delivers 2.52%. Defaults alone cannot explain that gap at a 5.7% default rate. Prepayment does — borrowers repay early without penalty, and capital stops earning.
+On fully matured 2012–2013 loans, realised annual returns run from 2.52% (grade A) to 4.29% (grade E) — a modest reward for a five-fold increase in default rate. Every grade returns far below its advertised rate: grade A advertises 7.7% and delivers 2.52%. Defaults alone cannot explain that gap at a 5.7% default rate. Prepayment does — borrowers repay early without penalty, and capital stops earning.
 
 **2. Grade letters drifted materially over time.**
 
