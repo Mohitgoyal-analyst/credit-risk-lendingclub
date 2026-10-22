@@ -14,7 +14,7 @@ Analysis of **786,820 matured peer-to-peer loans** issued 2012–2015.
 
 Advertised rates climb from 7% to 26% across grades. Realised returns run from 2.52% to 4.29% — a modest reward for a five-fold rise in default rate.
 
-The larger gap is vertical. Grade A advertises 7.2% and delivers 2.52%, which a 5.7% default rate cannot explain. **Prepayment** does: borrowers repay early without penalty, and capital stops earning.
+The larger gap is vertical. Grade A advertises 7.7% and delivers 2.52%, which a 5.7% default rate cannot explain. **Prepayment** does: borrowers repay early without penalty, and capital stops earning.
 
 ### 2. Grade letters drifted over time
 
