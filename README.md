@@ -28,12 +28,15 @@ As LendingClub scaled from 43,000 to 283,000 loans a year, the risk behind each 
 
 | Model | Test AUC (2015) |
 |---|---|
-| LendingClub's own `int_rate` / `sub_grade` | 0.715 |
+| LendingClub’s grade/rate (gradient boosting on platform features) | 0.715 |
 | WOE scorecard, borrower features only | 0.718 |
 | Gradient boosting, borrower features only | **0.736** |
 | Gradient boosting, borrower + platform features | 0.742 |
 
+On 2015 36-month loans only (the subset used for the return analysis), the borrower-only model scores 0.695 against 0.678 for int_rate and sub_grade, so the advantage holds on the cleaner sample, at a smaller margin.
+
 Adding LendingClub's grade to the model improves it only marginally, indicating their assessment captured little the raw attributes did not.
+
 
 ---
 
