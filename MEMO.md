@@ -20,7 +20,7 @@ On fully matured 2012–2013 loans, realised annual returns run from 2.52% (grad
 
 **2. Grade letters drifted materially over time.**
 
-Restricting to 36-month loans, which are fully matured across the whole period, a grade E borrower defaulted at 23% in 2013 and 30% in 2015. Same letter, same term, both cohorts fully resolved. As LendingClub scaled from 43,000 to 283,000 loans a year, the risk behind each letter rose while the label stayed fixed. A grade is therefore not comparable across vintages.
+Restricting to 36-month loans, which are fully matured across the whole period, a grade E borrower defaulted at 23.0% for 2012-13 and 30.4% for 2014-15. Same letter, same term, both cohorts fully resolved. As LendingClub scaled from 43,000 to 283,000 loans a year, the risk behind each letter rose while the label stayed fixed. A grade is therefore not comparable across vintages.
 
 **3. Borrower attributes outperform the platform's own grade.**
 
