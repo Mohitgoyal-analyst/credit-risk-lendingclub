@@ -99,7 +99,7 @@ pip install pandas numpy matplotlib scikit-learn pyarrow
 
 **Weight of evidence** encodes each variable bin as `ln(share of good loans / share of bad loans)`. Negative is riskier than average, positive is safer. Bins are fitted on training data only. Information value ranks variables; anything below 0.02 is dropped. The resulting scorecard is a points table — a declined applicant can be told which factors cost them, which a gradient-boosted ensemble cannot provide.
 
-**Two models, not six.** The scorecard answers "what can be deployed in a regulated lending context"; gradient boosting sets the practical ceiling on these features. The gap between them (0.717 vs 0.736) is the measured cost of interpretability. Additional algorithms would land between the two without changing any conclusion.
+**Two models, not six.** The scorecard answers "what can be deployed in a regulated lending context"; gradient boosting sets the practical ceiling on these features. The gap between them (0.718 vs 0.736) is the measured cost of interpretability. Additional algorithms would land between the two without changing any conclusion.
 
 **One engineered feature.** `earliest_cr_line` is a date string with hundreds of values, useless as a category. The interval between it and the loan date is credit history length — median 14.8 years — a standard credit variable.
 
